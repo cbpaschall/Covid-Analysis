@@ -11,3 +11,7 @@ Context
 For this Achievement, you'll select your own data to analyze, with the goal of conducting an exploratory visual analysis in Python and finding connections between variables that seem worth exploring. After developing hypotheses, you'll use various advanced analytical approaches to help you test your hypotheses.
 
 The results of your analyses will be presented in a Tableau dashboard/storyboard. Data dashboards are an effective tool for, among other purposes, presenting data in an accessible and tangible way. Your dashboard will tell the story of your analytical journey and, as such, needs to contain a curation of the key results you discovered throughout this Achievement.
+
+
+Data Source: Kaggle.com
+Data Link: https://www.kaggle.com/shashwatwork/impact-of-covid19-pandemic-on-the-global-economy
